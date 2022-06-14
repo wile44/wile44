@@ -1,5 +1,5 @@
-![](https://img.shields.io/badge/flutter-flutter-blue?style=flat&logo=flutter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/kotlin-kotlin-blue?style=flat&logo=kotlin&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/flutter-flutter-blue?style=flat&logo=flutter&logoColor=white&color=4AB197) -->
+<!-- ![](https://img.shields.io/badge/python-python-blue?style=flat&logo=python&logoColor=white&color=4AB197) -->
 
 ### Hi there, I'm <a href="https://github.com/wile44" target="_blank">Goodluck Wile</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
