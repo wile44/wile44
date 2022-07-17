@@ -12,7 +12,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=wile44.wile44)
 
-I am a mobile developer and designer. I love programming, learning, collaborating and exploring.
+I am a mobile app developer and designer. I love programming, learning, collaborating and exploring.
 
 As a mobile engineer, I enjoy using my obsessive attention to detail, my unambiguous love for making things that change the world. That's why I like to make things that make a difference.
   
