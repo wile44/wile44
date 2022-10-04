@@ -17,7 +17,7 @@ I am a mobile app developer and designer. I love programming, learning, collabor
 As a mobile engineer, I enjoy using my obsessive attention to detail, my unambiguous love for making things that change the world. That's why I like to make things that make a difference.
   
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wile44&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wile44&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wile44&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
