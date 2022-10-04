@@ -17,11 +17,9 @@ I am a mobile app developer and designer. I love programming, learning, collabor
 As a mobile engineer, I enjoy using my obsessive attention to detail, my unambiguous love for making things that change the world. That's why I like to make things that make a difference.
   
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wile44&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wile44&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wile44&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-📈 **My GitHub Stats:**
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wile44&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wile44&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/goodluckwile) 
