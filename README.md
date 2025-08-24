@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🌍 Based in **Tanzania**, passionate about **building scalable, impactful solutions across Africa and beyond**.  
+- 🌍 Based in **Dar es Salaam**, passionate about **building scalable, impactful solutions across Africa and beyond**.  
 - 💡 Specialize in **Full Stack Development, API Design, Cloud & DevOps**.  
 - 📱 Currently working on **Flutter mobile apps & NestJS backends**.  
 - 🎯 Obsessed with **clean code, collaboration, and solving real-world problems**.  
